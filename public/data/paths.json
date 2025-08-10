@@ -1,0 +1,123 @@
+
+[
+  {
+    "id": "path-1",
+    "title": "Chuyên Viên Phân Tích Dữ Liệu",
+    "description": "Lộ trình toàn diện để trở thành một chuyên viên phân tích dữ liệu, từ kỹ năng Excel, SQL đến trực quan hóa.",
+    "longDescription": "Đây là lộ trình được thiết kế dành cho những ai muốn theo đuổi sự nghiệp phân tích dữ liệu. Bạn sẽ bắt đầu với nền tảng vững chắc từ Excel, học cách truy vấn cơ sở dữ liệu với SQL, và cuối cùng là biến những con số khô khan thành những insight đắt giá thông qua các công cụ trực quan hóa.",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/2920/2920325.png",
+    "courseCount": 3,
+    "students": 12500,
+    "duration": "25 giờ",
+    "tags": ["Excel", "Data Analysis", "SQL", "Dashboard"],
+    "outcomes": [
+      "Thành thạo Excel cho phân tích dữ liệu.",
+      "Viết truy vấn SQL để lấy và xử lý dữ liệu.",
+      "Xây dựng dashboard tương tác.",
+      "Hiểu rõ quy trình phân tích dữ liệu từ A-Z."
+    ],
+    "requirements": [
+      "Tư duy logic và yêu thích con số.",
+      "Không yêu cầu kinh nghiệm lập trình."
+    ],
+    "targetAudience": "Sinh viên kinh tế, marketing, tài chính hoặc bất kỳ ai muốn chuyển ngành sang lĩnh vực dữ liệu.",
+    "courses": [
+        {
+            "id": "1",
+            "title": "Excel Toàn Tập: Từ Cơ Bản Đến Chuyên Gia Dữ Liệu",
+            "tagline": "Làm chủ Excel qua 100+ bài học.",
+            "longDescription": "Khóa học Excel đầy đủ nhất.",
+            "imageUrl": "https://images.pexels.com/photos/4386341/pexels-photo-4386341.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "isPro": true,
+            "instructorName": "Anna Lê",
+            "instructorAvatarUrl": "https://i.pravatar.cc/150?img=1",
+            "lessons": 110,
+            "duration": "12 giờ 30 phút"
+        },
+        {
+            "id": "sql-101",
+            "title": "SQL cho người mới bắt đầu",
+            "tagline": "Truy vấn cơ sở dữ liệu quan hệ.",
+            "longDescription": "Học SQL từ đầu.",
+            "imageUrl": "https://images.pexels.com/photos/1181267/pexels-photo-1181267.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "isPro": true,
+            "instructorName": "Sơn Đặng",
+            "instructorAvatarUrl": "https://i.pravatar.cc/150?img=11",
+            "lessons": 60,
+            "duration": "8 giờ"
+        },
+        {
+            "id": "powerbi-101",
+            "title": "Trực quan hóa dữ liệu với Power BI",
+            "tagline": "Biến dữ liệu thành câu chuyện.",
+            "longDescription": "Học Power BI.",
+            "imageUrl": "https://images.pexels.com/photos/1181325/pexels-photo-1181325.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "isPro": true,
+            "instructorName": "Anna Lê",
+            "instructorAvatarUrl": "https://i.pravatar.cc/150?img=1",
+            "lessons": 45,
+            "duration": "4 giờ 30 phút"
+        }
+    ]
+  },
+  {
+    "id": "path-2",
+    "title": "Chuyên Gia Kỹ Năng Văn Phòng",
+    "description": "Bộ kỹ năng toàn diện về Word, Excel, PowerPoint để bạn tự tin làm chủ mọi công việc văn phòng.",
+    "longDescription": "Lộ trình này trang bị cho bạn bộ ba kỹ năng không thể thiếu của bất kỳ nhân viên văn phòng nào. Bạn sẽ học cách soạn thảo văn bản chuyên nghiệp, xử lý bảng tính hiệu quả, và tạo ra những bài thuyết trình ấn tượng, giúp bạn nâng cao năng suất và gây ấn tượng với đồng nghiệp và cấp trên.",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/8143/8143410.png",
+    "courseCount": 3,
+    "students": 25800,
+    "duration": "11 giờ",
+    "tags": ["Word", "Excel", "PowerPoint", "Productivity"],
+     "outcomes": [
+      "Sử dụng thành thạo bộ 3 công cụ Microsoft Office.",
+      "Tối ưu hóa và tự động hóa các công việc văn phòng hàng ngày.",
+      "Tạo ra các tài liệu, báo cáo, bài thuyết trình chuyên nghiệp.",
+      "Nâng cao hiệu suất làm việc và tiết kiệm thời gian."
+    ],
+    "requirements": [
+      "Máy tính có cài đặt bộ Microsoft Office.",
+      "Kỹ năng sử dụng máy tính cơ bản."
+    ],
+    "targetAudience": "Nhân viên văn phòng, sinh viên, trợ lý, hoặc bất kỳ ai muốn nâng cao kỹ năng tin học văn phòng của mình.",
+    "courses": [
+        {
+            "id": "8",
+            "title": "Soạn thảo văn bản chuyên nghiệp với Word",
+            "tagline": "Học cách trình bày văn bản, báo cáo, hợp đồng đúng chuẩn.",
+            "longDescription": "Khóa học Word miễn phí.",
+            "imageUrl": "https://images.pexels.com/photos/1181715/pexels-photo-1181715.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "isPro": false,
+            "instructorName": "Phương Thảo",
+            "instructorAvatarUrl": "https://i.pravatar.cc/150?img=5",
+            "lessons": 25,
+            "duration": "2 giờ 30 phút"
+        },
+        {
+            "id": "1",
+            "title": "Excel Toàn Tập: Từ Cơ Bản Đến Chuyên Gia Dữ Liệu",
+            "tagline": "Làm chủ Excel qua 100+ bài học.",
+            "longDescription": "Khóa học Excel đầy đủ nhất.",
+            "imageUrl": "https://images.pexels.com/photos/4386341/pexels-photo-4386341.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "isPro": true,
+            "instructorName": "Anna Lê",
+            "instructorAvatarUrl": "https://i.pravatar.cc/150?img=1",
+            "lessons": 110,
+            "duration": "12 giờ 30 phút"
+        },
+        {
+            "id": "2",
+            "title": "PowerPoint Pro: Thiết Kế Thuyết Trình Chuyên Nghiệp",
+            "tagline": "Học cách tư duy thiết kế để tạo slide ấn tượng.",
+            "longDescription": "Khóa học PowerPoint chuyên sâu.",
+            "imageUrl": "https://images.pexels.com/photos/1181345/pexels-photo-1181345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "isPro": true,
+            "instructorName": "Minh Tuấn",
+            "instructorAvatarUrl": "https://i.pravatar.cc/150?img=3",
+            "lessons": 50,
+            "duration": "6 giờ"
+        }
+    ]
+  }
+]

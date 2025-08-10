@@ -1,0 +1,51 @@
+
+[
+  {
+    "title": "Làm thế nào để kết hợp VLOOKUP và IF?",
+    "content": "Chào mọi người, em đang có một bài toán cần dùng VLOOKUP để lấy dữ liệu, nhưng nếu không tìm thấy thì sẽ trả về một giá trị mặc định thay vì lỗi #N/A. Em đã thử dùng hàm IF nhưng chưa được. Mọi người có thể giúp em không ạ? Cảm ơn nhiều!",
+    "categoryId": "INSERT_CATEGORY_ID_FOR_EXCEL",
+    "authorId": "INSERT_USER_ID_FOR_HOANG_AN",
+    "createdAt": "2024-07-25T10:00:00Z",
+    "repliesCount": 2,
+    "viewsCount": 152,
+    "isPinned": true,
+    "isLocked": false,
+    "lastReplyAt": "2024-07-25T11:30:00Z",
+    "lastReplyAuthorId": "INSERT_USER_ID_FOR_ANNA_LE"
+  },
+  {
+    "title": "Xin ý tưởng cho slide mở đầu ấn tượng",
+    "content": "Mình sắp có một bài thuyết trình quan trọng về kế hoạch kinh doanh quý 3. Mình muốn có một slide mở đầu thật ấn tượng để thu hút sự chú ý ngay từ đầu. Mọi người có ý tưởng hay template nào hay ho không ạ?",
+    "categoryId": "INSERT_CATEGORY_ID_FOR_POWERPOINT",
+    "authorId": "INSERT_USER_ID_FOR_HOANG_AN",
+    "createdAt": "2024-07-24T15:20:00Z",
+    "repliesCount": 1,
+    "viewsCount": 98,
+    "isPinned": false,
+    "isLocked": false,
+    "lastReplyAt": "2024-07-24T16:00:00Z",
+    "lastReplyAuthorId": "INSERT_USER_ID_FOR_MINH_TUAN"
+  },
+  {
+    "title": "Chia sẻ bộ phím tắt Excel hữu ích nhất",
+    "content": "Mình tổng hợp lại một số phím tắt Excel mà mình thấy hay dùng và hiệu quả nhất. Mọi người cùng vào bổ sung nhé!\n\n- `Ctrl + Shift + L`: Bật/tắt Filter\n- `Ctrl + T`: Tạo Table\n- `Alt + =`: Tính tổng nhanh (AutoSum)",
+    "categoryId": "INSERT_CATEGORY_ID_FOR_EXCEL",
+    "authorId": "INSERT_USER_ID_FOR_ANNA_LE",
+    "createdAt": "2024-07-23T09:00:00Z",
+    "repliesCount": 0,
+    "viewsCount": 210,
+    "isPinned": false,
+    "isLocked": false
+  },
+  {
+    "title": "Học tin học văn phòng có thực sự cần thiết trong thời đại AI?",
+    "content": "Gần đây có rất nhiều công cụ AI có thể giúp làm slide, phân tích dữ liệu... Vậy theo mọi người, việc đầu tư thời gian học sâu về Excel, Word, PP có còn thực sự cần thiết không?",
+    "categoryId": "INSERT_CATEGORY_ID_FOR_GENERAL",
+    "authorId": "INSERT_USER_ID_FOR_SON_DANG",
+    "createdAt": "2024-07-22T18:00:00Z",
+    "repliesCount": 0,
+    "viewsCount": 350,
+    "isPinned": true,
+    "isLocked": false
+  }
+]

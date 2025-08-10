@@ -1,0 +1,24 @@
+
+[
+  {
+    "topicId": "INSERT_TOPIC_ID_FOR_VLOOKUP",
+    "authorId": "INSERT_USER_ID_FOR_ANNA_LE",
+    "content": "Chào bạn, bạn có thể dùng hàm `IFERROR` nhé. Cú pháp rất đơn giản:\n\n```excel\n=IFERROR(VLOOKUP(...), \"Giá trị mặc định\")\n```\n\nNếu VLOOKUP tìm thấy, nó sẽ trả về kết quả. Nếu không tìm thấy (bị lỗi), nó sẽ trả về \"Giá trị mặc định\" mà bạn đã đặt.",
+    "createdAt": "2024-07-25T10:15:00Z",
+    "upvotes": 15
+  },
+  {
+    "topicId": "INSERT_TOPIC_ID_FOR_VLOOKUP",
+    "authorId": "INSERT_USER_ID_FOR_HOANG_AN",
+    "content": "A, hay quá! Em cảm ơn chị Anna Lê nhiều ạ. Đơn giản mà hiệu quả thật sự.",
+    "createdAt": "2024-07-25T11:30:00Z",
+    "upvotes": 2
+  },
+  {
+    "topicId": "INSERT_TOPIC_ID_FOR_SLIDE_IDEA",
+    "authorId": "INSERT_USER_ID_FOR_MINH_TUAN",
+    "content": "Chào bạn, thay vì một slide mở đầu tĩnh, bạn có thể thử dùng hiệu ứng **Morph** trong PowerPoint để tạo một đoạn intro ngắn. Ví dụ, bạn có thể cho các icon hoặc từ khóa chính di chuyển và sắp xếp lại thành tiêu đề của bài thuyết trình. Nó sẽ tạo ra hiệu ứng rất chuyên nghiệp và thu hút.",
+    "createdAt": "2024-07-24T16:00:00Z",
+    "upvotes": 10
+  }
+]

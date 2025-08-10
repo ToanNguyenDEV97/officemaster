@@ -1,0 +1,59 @@
+
+{
+  "all": [
+    {
+      "id": "user-1",
+      "name": "Hoàng An",
+      "username": "@hoangan",
+      "email": "hoangan@example.com",
+      "avatarUrl": "https://i.pravatar.cc/150?img=20",
+      "role": "student",
+      "joinDate": "2023-10-15T09:00:00Z"
+    },
+    {
+      "id": "user-2",
+      "name": "Anna Lê",
+      "username": "@annale",
+      "email": "annale@example.com",
+      "avatarUrl": "https://i.pravatar.cc/150?img=1",
+      "role": "admin",
+      "joinDate": "2023-01-20T14:30:00Z"
+    },
+    {
+      "id": "user-3",
+      "name": "Minh Tuấn",
+      "username": "@minhtuan",
+      "email": "minhtuan@example.com",
+      "avatarUrl": "https://i.pravatar.cc/150?img=3",
+      "role": "instructor",
+      "joinDate": "2023-02-10T11:00:00Z"
+    },
+    {
+      "id": "user-4",
+      "name": "Sơn Đặng",
+      "username": "@sondang",
+      "email": "sondang@example.com",
+      "avatarUrl": "https://i.pravatar.cc/150?img=11",
+      "role": "admin",
+      "joinDate": "2022-12-01T18:00:00Z"
+    },
+    {
+      "id": "user-5",
+      "name": "Phương Thảo",
+      "username": "@phuongthao",
+      "email": "phuongthao@example.com",
+      "avatarUrl": "https://i.pravatar.cc/150?img=5",
+      "role": "instructor",
+      "joinDate": "2023-03-05T10:00:00Z"
+    }
+  ],
+  "mock": {
+    "id": "user-1",
+    "name": "Hoàng An",
+    "username": "@hoangan",
+    "email": "hoangan@example.com",
+    "avatarUrl": "https://i.pravatar.cc/150?img=20",
+    "role": "student",
+    "joinDate": "2023-10-15T09:00:00Z"
+  }
+}

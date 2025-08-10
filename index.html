@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/1187/1187514.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Office Master - Học Tin Học Văn Phòng Chuyên Sâu</title>
+    <script>
+      // Support light/dark mode
+      if (localStorage.getItem('theme') === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.documentElement.classList.add('dark')
+      } else {
+        document.documentElement.classList.remove('dark')
+      }
+    </script>
+    <script src="https://cdn.tailwindcss.com?plugins=typography,forms"></script>
+    <style>
+      main img {
+        max-width: 100%;
+        height: auto;
+      }
+    </style>
+  <script type="importmap">
+{
+  "imports": {
+    "react/": "https://esm.sh/react@^19.1.1/",
+    "react": "https://esm.sh/react@^19.1.1",
+    "react-dom/": "https://esm.sh/react-dom@^19.1.1/",
+    "react-dom": "https://esm.sh/react-dom@^19.1.1",
+    "react-icons/": "https://esm.sh/react-icons@5.2.1/",
+    "@google/genai": "https://esm.sh/@google/genai",
+    "react-markdown": "https://esm.sh/react-markdown@9.0.1",
+    "remark-gfm": "https://esm.sh/remark-gfm@4.0.0",
+    "react-syntax-highlighter": "https://esm.sh/react-syntax-highlighter@15.5.0",
+    "react-syntax-highlighter/dist/esm/styles/prism/": "https://esm.sh/react-syntax-highlighter@15.5.0/dist/esm/styles/prism/",
+    "rehype-slug": "https://esm.sh/rehype-slug@6.0.0",
+    "react-syntax-highlighter/": "https://esm.sh/react-syntax-highlighter@^15.6.1/",
+    "react-timeago/": "https://esm.sh/react-timeago@^8.3.0/",
+    "react-timeago": "https://esm.sh/react-timeago@^8.3.0",
+    "express": "https://esm.sh/express@^5.1.0",
+    "mongodb": "https://esm.sh/mongodb@^6.18.0",
+    "path": "https://esm.sh/path@^0.12.7",
+    "cors": "https://esm.sh/cors@^2.8.5",
+    "url": "https://esm.sh/url@^0.11.4",
+    "dotenv": "https://esm.sh/dotenv@^17.2.1",
+    "fs": "https://esm.sh/fs@^0.0.1-security"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+  <body class="bg-slate-50 dark:bg-slate-950 text-slate-700 dark:text-slate-300 overflow-x-hidden">
+    <div id="root"></div>
+  <script type="module" src="/index.tsx"></script>
+</body>
+</html>

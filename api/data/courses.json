@@ -1,0 +1,133 @@
+
+[
+  {
+    "title": "Excel Toàn Tập: Từ Cơ Bản Đến Chuyên Gia Dữ Liệu",
+    "tagline": "Làm chủ Excel qua 100+ bài học, sẵn sàng cho mọi tác vụ phân tích và báo cáo chuyên nghiệp.",
+    "longDescription": "Đây là khóa học Excel đầy đủ nhất, được thiết kế để đưa bạn từ một người mới bắt đầu trở thành một chuyên gia phân tích dữ liệu. Bạn sẽ học từ những khái niệm cơ bản nhất như định dạng và hàm, đến các công cụ nâng cao như PivotTable, Power Query, và thậm chí cả VBA scripting cơ bản. Khóa học tập trung vào các ví dụ thực tế trong kinh doanh.",
+    "imageUrl": "https://images.pexels.com/photos/4386341/pexels-photo-4386341.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "isPro": true,
+    "price": 799000,
+    "oldPrice": 1500000,
+    "instructorName": "Anna Lê",
+    "instructorAvatarUrl": "https://i.pravatar.cc/150?img=1",
+    "instructor": { "name": "Anna Lê", "title": "Chuyên gia Data Analysis", "avatarUrl": "https://i.pravatar.cc/150?img=1", "bio": "Với hơn 8 năm kinh nghiệm làm việc với dữ liệu lớn tại các tập đoàn đa quốc gia, Anna Lê là chuyên gia hàng đầu trong lĩnh vực phân tích và trực quan hóa dữ liệu bằng Excel." },
+    "lessons": 110,
+    "duration": "12 giờ 30 phút",
+    "level": "Tất cả",
+    "category": "Excel",
+    "introVideoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "outcomes": [
+      "Thành thạo trên 50+ hàm Excel thông dụng và nâng cao.",
+      "Sử dụng PivotTable và Slicer để tạo báo cáo động.",
+      "Tự động hóa các tác vụ lặp lại bằng Power Query.",
+      "Xây dựng dashboard phân tích kinh doanh chuyên nghiệp.",
+      "Tự tin xử lý các bộ dữ liệu lớn và phức tạp."
+    ],
+    "requirements": [
+      "Máy tính có cài đặt Microsoft Excel 2016 trở lên.",
+      "Không yêu cầu kiến thức Excel trước đó.",
+      "Tinh thần sẵn sàng học hỏi và thực hành."
+    ],
+    "modules": [
+      { "id": "m1-1", "title": "Nhập Môn Excel", "lessons": [], "totalDuration": "1 giờ", "lessonCount": 10 },
+      { "id": "m1-2", "title": "Các Hàm Cơ Bản", "lessons": [], "totalDuration": "2 giờ", "lessonCount": 20 },
+      { "id": "m1-3", "title": "Định Dạng Nâng Cao", "lessons": [], "totalDuration": "1 giờ 30 phút", "lessonCount": 15 },
+      { "id": "m1-4", "title": "Làm Việc Với Dữ Liệu", "lessons": [], "totalDuration": "2 giờ", "lessonCount": 20 },
+      { "id": "m1-5", "title": "PivotTable & PivotChart", "lessons": [], "totalDuration": "2 giờ", "lessonCount": 20 },
+      { "id": "m1-6", "title": "Power Query Cơ Bản", "lessons": [], "totalDuration": "2 giờ", "lessonCount": 15 },
+      { "id": "m1-7", "title": "Xây Dựng Dashboard", "lessons": [], "totalDuration": "1 giờ 30 phút", "lessonCount": 10 }
+    ]
+  },
+  {
+    "title": "PowerPoint Pro: Thiết Kế Thuyết Trình Chuyên Nghiệp",
+    "tagline": "Học cách tư duy thiết kế và sử dụng các công cụ mạnh mẽ để tạo ra những slide thuyết trình ấn tượng.",
+    "longDescription": "Khóa học này không chỉ dạy bạn cách sử dụng các nút bấm trong PowerPoint. Chúng tôi sẽ dạy bạn tư duy như một nhà thiết kế, cách kể chuyện bằng hình ảnh, và sử dụng các hiệu ứng animation một cách tinh tế để thu hút và thuyết phục khán giả. Từ bố cục, màu sắc, font chữ đến các kỹ thuật trình chiếu nâng cao, tất cả đều có trong khóa học này.",
+    "imageUrl": "https://images.pexels.com/photos/1181345/pexels-photo-1181345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "isPro": true,
+    "price": 599000,
+    "oldPrice": 1200000,
+    "instructorName": "Minh Tuấn",
+    "instructorAvatarUrl": "https://i.pravatar.cc/150?img=3",
+    "instructor": { "name": "Minh Tuấn", "title": "Bậc thầy PowerPoint", "avatarUrl": "https://i.pravatar.cc/150?img=3", "bio": "Minh Tuấn đã giúp hàng ngàn học viên và doanh nghiệp tạo ra những bài thuyết trình ấn tượng, có sức ảnh hưởng mạnh mẽ, chinh phục mọi khán giả." },
+    "lessons": 50,
+    "duration": "6 giờ",
+    "level": "Trung bình",
+    "category": "PowerPoint",
+    "introVideoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "outcomes": [
+      "Nắm vững các nguyên tắc thiết kế slide chuyên nghiệp.",
+      "Sử dụng thành thạo Morph và Zoom để tạo hiệu ứng điện ảnh.",
+      "Thiết kế Infographic và biểu đồ hấp dẫn.",
+      "Làm chủ kỹ năng trình bày và kể chuyện.",
+      "Tạo template thương hiệu cho riêng mình."
+    ],
+    "requirements": [
+      "Microsoft PowerPoint 2019 hoặc Office 365.",
+      "Kiến thức PowerPoint cơ bản là một lợi thế."
+    ],
+    "modules": [
+      { "id": "m2-1", "title": "Tư Duy Thiết Kế", "lessons": [], "totalDuration": "1 giờ", "lessonCount": 8 },
+      { "id": "m2-2", "title": "Làm Chủ Công Cụ", "lessons": [], "totalDuration": "1 giờ 30 phút", "lessonCount": 12 },
+      { "id": "m2-3", "title": "Animation & Transition", "lessons": [], "totalDuration": "1 giờ 30 phút", "lessonCount": 15 },
+      { "id": "m2-4", "title": "Trình Bày Nâng Cao", "lessons": [], "totalDuration": "1 giờ", "lessonCount": 8 },
+      { "id": "m2-5", "title": "Dự Án Thực Tế", "lessons": [], "totalDuration": "1 giờ", "lessonCount": 7 }
+    ]
+  },
+  {
+    "title": "Làm quen với Excel",
+    "tagline": "Khóa học nhập môn dành cho người mới, giúp bạn tự tin sử dụng Excel trong công việc hàng ngày.",
+    "longDescription": "Nếu bạn chưa từng sử dụng Excel hoặc cảm thấy bỡ ngỡ mỗi khi mở một bảng tính, khóa học này chính là dành cho bạn. Chúng tôi sẽ hướng dẫn bạn từng bước, từ cách nhập liệu, định dạng, đến sử dụng các hàm tính toán cơ bản nhất. Hoàn toàn miễn phí!",
+    "imageUrl": "https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "isPro": false,
+    "instructorName": "Phương Thảo",
+    "instructorAvatarUrl": "https://i.pravatar.cc/150?img=5",
+    "instructor": { "name": "Phương Thảo", "title": "Chuyên gia Microsoft Word", "avatarUrl": "https://i.pravatar.cc/150?img=5", "bio": "Phương Thảo có niềm đam mê với việc tối ưu hóa quy trình làm việc văn bản, giúp mọi người tiết kiệm thời gian và nâng cao tính chuyên nghiệp trong các tài liệu." },
+    "lessons": 20,
+    "duration": "2 giờ",
+    "level": "Cơ bản",
+    "category": "Excel",
+    "introVideoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "outcomes": [
+      "Hiểu rõ giao diện và các thành phần chính của Excel.",
+      "Biết cách nhập liệu và định dạng bảng tính cơ bản.",
+      "Sử dụng được các hàm SUM, AVERAGE, COUNT, MIN, MAX.",
+      "Tạo được các biểu đồ đơn giản."
+    ],
+    "requirements": [
+      "Máy tính có cài đặt Microsoft Excel."
+    ],
+    "modules": [
+      { "id": "m7-1", "title": "Giao Diện & Thao Tác", "lessons": [], "totalDuration": "45 phút", "lessonCount": 8 },
+      { "id": "m7-2", "title": "Các Phép Toán Đầu Tiên", "lessons": [], "totalDuration": "1 giờ 15 phút", "lessonCount": 12 }
+    ]
+  },
+  {
+    "title": "Soạn thảo văn bản chuyên nghiệp với Word",
+    "tagline": "Học cách trình bày văn bản, báo cáo, hợp đồng đúng chuẩn và chuyên nghiệp trong thời gian ngắn nhất.",
+    "longDescription": "Đừng để những văn bản trình bày cẩu thả làm ảnh hưởng đến hình ảnh chuyên nghiệp của bạn. Khóa học miễn phí này sẽ chỉ cho bạn cách định dạng văn bản nhanh, sử dụng Styles, tạo mục lục tự động, và nhiều kỹ thuật khác để tài liệu của bạn luôn đẹp và nhất quán.",
+    "imageUrl": "https://images.pexels.com/photos/1181715/pexels-photo-1181715.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "isPro": false,
+    "instructorName": "Phương Thảo",
+    "instructorAvatarUrl": "https://i.pravatar.cc/150?img=5",
+    "instructor": { "name": "Phương Thảo", "title": "Chuyên gia Microsoft Word", "avatarUrl": "https://i.pravatar.cc/150?img=5", "bio": "Phương Thảo có niềm đam mê với việc tối ưu hóa quy trình làm việc văn bản, giúp mọi người tiết kiệm thời gian và nâng cao tính chuyên nghiệp trong các tài liệu." },
+    "lessons": 25,
+    "duration": "2 giờ 30 phút",
+    "level": "Cơ bản",
+    "category": "Word",
+    "introVideoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "outcomes": [
+      "Trình bày văn bản khoa học, đúng chuẩn.",
+      "Làm chủ Styles để định dạng nhanh.",
+      "Tạo mục lục, danh mục tự động.",
+      "Chèn và định dạng bảng biểu, hình ảnh."
+    ],
+    "requirements": [
+      "Máy tính có cài đặt Microsoft Word."
+    ],
+    "modules": [
+      { "id": "m8-1", "title": "Định Dạng Văn Bản", "lessons": [], "totalDuration": "1 giờ", "lessonCount": 10 },
+      { "id": "m8-2", "title": "Đối Tượng & Bảng Biểu", "lessons": [], "totalDuration": "1 giờ", "lessonCount": 10 },
+      { "id": "m8-3", "title": "In ấn & Hoàn Thiện", "lessons": [], "totalDuration": "30 phút", "lessonCount": 5 }
+    ]
+  }
+]

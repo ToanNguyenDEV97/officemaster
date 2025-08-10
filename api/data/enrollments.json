@@ -1,0 +1,24 @@
+
+[
+  {
+    "userId": { "$oid": "INSERT_USER_ID_HERE" },
+    "courseId": { "$oid": "INSERT_COURSE_ID_HERE_FOR_COURSE_1" },
+    "progress": 75,
+    "completed": false,
+    "lastLearned": "PivotTable & PivotChart"
+  },
+  {
+    "userId": { "$oid": "INSERT_USER_ID_HERE" },
+    "courseId": { "$oid": "INSERT_COURSE_ID_HERE_FOR_COURSE_8" },
+    "progress": 100,
+    "completed": true,
+    "lastLearned": "In ấn & Hoàn Thiện"
+  },
+  {
+    "userId": { "$oid": "INSERT_USER_ID_HERE" },
+    "courseId": { "$oid": "INSERT_COURSE_ID_HERE_FOR_COURSE_2" },
+    "progress": 20,
+    "completed": false,
+    "lastLearned": "Tư Duy Thiết Kế"
+  }
+]

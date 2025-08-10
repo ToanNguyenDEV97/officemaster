@@ -1,0 +1,31 @@
+
+[
+  {
+    "name": "Hỏi đáp Excel",
+    "slug": "excel",
+    "description": "Nơi hỏi đáp về các hàm, công cụ và kỹ thuật trong Excel.",
+    "color": "bg-green-500",
+    "topicCount": 2
+  },
+  {
+    "name": "Thảo luận PowerPoint",
+    "slug": "powerpoint",
+    "description": "Chia sẻ ý tưởng, mẹo thiết kế và các bài thuyết trình ấn tượng.",
+    "color": "bg-red-500",
+    "topicCount": 1
+  },
+  {
+    "name": "Thủ thuật Word",
+    "slug": "word",
+    "description": "Các mẹo hay về soạn thảo và trình bày văn bản chuyên nghiệp.",
+    "color": "bg-blue-500",
+    "topicCount": 0
+  },
+  {
+    "name": "Thảo luận chung",
+    "slug": "general",
+    "description": "Các chủ đề khác liên quan đến tin học văn phòng.",
+    "color": "bg-slate-500",
+    "topicCount": 1
+  }
+]

@@ -1,0 +1,33 @@
+
+[
+  {
+    "id": "1",
+    "title": "10 hàm Excel giúp bạn tăng năng suất x2",
+    "imageUrl": "https://images.pexels.com/photos/7947933/pexels-photo-7947933.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "author": "Anna Lê",
+    "avatarUrl": "https://i.pravatar.cc/150?img=1",
+    "category": "Excel",
+    "publishedDate": "20/07/2024",
+    "content": "## Giới thiệu\n\nBạn có đang tốn hàng giờ để xử lý các bảng tính Excel? Hãy để Office Master chỉ cho bạn 10 hàm Excel cực kỳ mạnh mẽ nhưng lại ít được biết đến, giúp bạn tự động hóa công việc và tăng năng suất lên gấp đôi.\n\n### 1. XLOOKUP\n\nĐây là \"kẻ hủy diệt\" VLOOKUP. XLOOKUP linh hoạt hơn, dễ sử dụng hơn và giải quyết được mọi nhược điểm của hàm VLOOKUP truyền thống.\n\n```excel\n=XLOOKUP(lookup_value, lookup_array, return_array, [if_not_found], [match_mode], [search_mode])\n```\n\n### 2. FILTER\n\nLọc dữ liệu động theo một hoặc nhiều điều kiện mà không cần dùng đến công cụ Filter thủ công.\n\n```excel\n=FILTER(array, include, [if_empty])\n```\n\n### 3. UNIQUE\n\nNhanh chóng lấy ra danh sách các giá trị duy nhất từ một vùng dữ liệu.\n\n### 4. SORT & SORTBY\n\nSắp xếp dữ liệu của bạn một cách linh hoạt theo một hoặc nhiều cột.\n\n### 5. SEQUENCE\n\nTạo ra một chuỗi số tự động, rất hữu ích khi cần tạo danh sách số thứ tự.\n\n### 6. TEXTJOIN\n\nNối nhiều chuỗi văn bản lại với nhau và có thể thêm dấu phân cách tùy ý. Tiện lợi hơn hàm CONCATENATE rất nhiều.\n\n### 7. IFS\n\nThay thế cho các hàm IF lồng nhau phức tạp. Giúp công thức của bạn trở nên gọn gàng và dễ đọc hơn.\n\n### 8. SWITCH\n\nTương tự IFS nhưng dùng để so sánh một giá trị với một danh sách các giá trị khác. Rất hiệu quả khi có nhiều trường hợp cần xét.\n\n### 9. LET\n\nCho phép bạn đặt tên cho các phần của công thức. Điều này giúp tối ưu hóa hiệu suất và làm cho các công thức phức tạp trở nên dễ hiểu hơn.\n\n### 10. LAMBDA\n\nĐây là một hàm nâng cao, cho phép bạn tạo ra các hàm tùy chỉnh của riêng mình mà không cần dùng đến VBA.\n\n## Kết luận\n\nViệc nắm vững các hàm này sẽ giúp bạn trở thành một chuyên gia Excel thực thụ. Hãy bắt đầu áp dụng chúng vào công việc ngay hôm nay nhé!"
+  },
+  {
+    "id": "2",
+    "title": "Mẹo thiết kế slide PowerPoint chuyên nghiệp",
+    "imageUrl": "https://images.pexels.com/photos/3184296/pexels-photo-3184296.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "author": "Minh Tuấn",
+    "avatarUrl": "https://i.pravatar.cc/150?img=3",
+    "category": "PowerPoint",
+    "publishedDate": "18/07/2024",
+    "content": "## Slide đẹp không khó!\n\nMột bài thuyết trình có thể thành công hay thất bại chỉ vì những slide được thiết kế cẩu thả. Dưới đây là những mẹo đơn giản nhưng hiệu quả để nâng tầm slide của bạn.\n\n### 1. Quy tắc 6x6\n\nMột quy tắc kinh điển: không quá 6 dòng trên một slide và không quá 6 chữ trên một dòng. Điều này buộc bạn phải chắt lọc thông tin và giúp khán giả dễ theo dõi.\n\n### 2. Sử dụng hình ảnh chất lượng cao\n\nTránh xa các hình ảnh mờ, vỡ, hoặc có watermark. Hãy sử dụng các nguồn ảnh chất lượng cao và miễn phí như Unsplash, Pexels, hoặc Pixabay.\n\n### 3. Giới hạn màu sắc\n\nChỉ nên sử dụng 2-3 màu chủ đạo trong toàn bộ bài thuyết trình. Một bảng màu nhất quán sẽ tạo ra cảm giác chuyên nghiệp. Bạn có thể dùng các công cụ như Adobe Color để tạo bảng màu.\n\n### 4. Chọn Font chữ dễ đọc\n\nNên sử dụng các font chữ không chân (sans-serif) như Arial, Helvetica, Calibri cho phần nội dung vì chúng dễ đọc trên màn hình. Font chữ có chân (serif) như Times New Roman có thể dùng cho tiêu đề để tạo điểm nhấn.\n\n### 5. Tận dụng không gian trắng\n\nĐừng cố nhồi nhét quá nhiều thứ vào một slide. Không gian trắng (negative space) giúp slide của bạn thoáng đãng, dễ nhìn và hướng sự tập trung của khán giả vào nội dung chính."
+  },
+  {
+    "id": "3",
+    "title": "Cách tạo mục lục tự động trong Word",
+    "imageUrl": "https://images.pexels.com/photos/5676008/pexels-photo-5676008.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "author": "Phương Thảo",
+    "avatarUrl": "https://i.pravatar.cc/150?img=5",
+    "category": "Word",
+    "publishedDate": "15/07/2024",
+    "content": "Việc tạo mục lục thủ công rất tốn thời gian và dễ sai sót. Hãy học cách tạo mục lục tự động trong Microsoft Word chỉ với vài cú click chuột!\n\n## Bước 1: Sử dụng Styles\n\nĐây là bước quan trọng nhất. Bạn phải định dạng các tiêu đề của mình bằng cách sử dụng các Styles có sẵn (Heading 1, Heading 2, Heading 3,...).\n\n- **Heading 1** cho tên chương.\n- **Heading 2** cho các mục lớn trong chương.\n- **Heading 3** cho các mục nhỏ hơn.\n\n## Bước 2: Chèn mục lục\n\n1. Đặt con trỏ chuột vào vị trí bạn muốn chèn mục lục.\n2. Vào tab `References`.\n3. Nhấp vào `Table of Contents` và chọn một kiểu có sẵn.\n\nThế là xong! Bạn đã có một mục lục hoàn chỉnh.\n\n## Bước 3: Cập nhật mục lục\n\nKhi bạn thay đổi nội dung hoặc tiêu đề, mục lục sẽ không tự động cập nhật. Để cập nhật, hãy:\n\n1. Nhấp chuột phải vào mục lục.\n2. Chọn `Update Field`.\n3. Chọn `Update page numbers only` (chỉ cập nhật số trang) hoặc `Update entire table` (cập nhật cả nội dung tiêu đề và số trang)."
+  }
+]
